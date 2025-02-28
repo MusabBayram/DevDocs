@@ -1,0 +1,2 @@
+# DevDocs
+Çeşitli alanlardaki notlarım
