@@ -1,7 +1,5 @@
 # Prompt Mühendisliği: Kapsamlı ve Detaylı Bir Kılavuz 🤖
 
-Bu belge, **`PE-2025-TR-MASTER`** kimliğiyle hazırlanmıştır. Aşağıda, Prompt Mühendisliği konusunu oldukça kapsamlı bir şekilde ele alıyorum. Bilgileri, tek sayfada ve Markdown formatında sunarak GitHub gibi platformlara kolayca eklemenizi amaçladım. İçerik yaklaşık **15.000–20.000 kelime** aralığında tasarlanmıştır. Umarım işinize yarar!
-
 ---
 
 ## İÇİNDEKİLER
