@@ -1,4 +1,4 @@
-# Yapay Zekâ ve Prompt Mühendisliği: Kapsamlı ve Detaylı Bir Kılavuz 🤖
+# Yapay Zekâ & Prompt Mühendisliği: Kapsamlı ve Detaylı Bir Kılavuz 🤖
 
 ---
 
