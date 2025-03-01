@@ -10,7 +10,7 @@
   ### Neler Var? / What’s Included?
   - **AI & Prompt Engineering**: Yapay zekâ ve prompt mühendisliğiyle ilgili kapsamlı rehberler  
   - **Ek Notlar / Additional Notes**: Diğer konulara dair notlar ve referanslar  
-  
+   
   ### Katkıda Bulunma / Contributing
   - Pull Request veya Issue açarak hata bildirebilir, yeni konu ekleyebilir ya da içeriği genişletebilirsiniz.  
     *Feel free to open a Pull Request or Issue if you find any errors, have new topics to add, or want to expand existing content.*
