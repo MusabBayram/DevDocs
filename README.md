@@ -1,11 +1,7 @@
 # DevDocs
 
-<!-- LOGO ALANI (İsteğe Bağlı) -->
-<!--
-Aşağıdaki bölümü, ileride bir logo oluşturup depoya eklediğinde kullanabilirsin.
-Örneğin 'docs/images/logo.png' diye bir yolun olursa:
-![DevDocs Logo](docs/images/logo.png)
--->
+![DevDocs Logo](docs/images/logo.jpeg)
+
 
 > Bu depo, yapay zeka ve prompt mühendisliği odaklı notlarımı barındırıyor. İlerleyen zamanlarda farklı konulardaki dokümanlarla genişletmeyi planlıyorum.
 
