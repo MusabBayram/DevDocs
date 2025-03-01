@@ -1,7 +1,5 @@
 # Prompt Mühendisliği: Kapsamlı ve Detaylı Bir Kılavuz 🤖
 
----
-
 ## İÇİNDEKİLER
 
 1. [Giriş ve Tanımlar](#1-giriş-ve-tanımlar)  
