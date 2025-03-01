@@ -1,9 +1,3 @@
----
-title: "Prompt Mühendisliği: Kapsamlı ve Detaylı Bir Kılavuz"
-author: "PE-2025-TR-MASTER"
-date: "2025"
----
-
 # Prompt Mühendisliği: Kapsamlı ve Detaylı Bir Kılavuz 🤖
 
 Bu belge, **`PE-2025-TR-MASTER`** kimliğiyle hazırlanmıştır. Aşağıda, Prompt Mühendisliği konusunu oldukça kapsamlı bir şekilde ele alıyorum. Bilgileri, tek sayfada ve Markdown formatında sunarak GitHub gibi platformlara kolayca eklemenizi amaçladım. İçerik yaklaşık **15.000–20.000 kelime** aralığında tasarlanmıştır. Umarım işinize yarar!
@@ -568,16 +562,6 @@ Yapay zekâ alanı inanılmaz bir hızla geliştiği için 2025 yılında popül
 | **Auto-GPT**         | Kendi kendine hedef belirleyip alt görevler oluşturabilen, zincirleme akıl yürütebilen bir “otonom ajan.”   | - Çok adımlı görevleri planlayıp yönetebilir<br>- Farklı API ve servislerle entegre çalışarak karar verebilir    | - Hatalı yönlendirmede (prompt) yanlış veya istenmeyen sonuçlar üretebilir<br>- Kaynak kullanımı ve işlem süresi yüksek olabilir |
 | **Bard (Google)**    | Google’ın dil modeli tabanlı sohbet aracı, Gmail, Dokümanlar gibi servislerle entegre.                      | - Google ekosistemine entegre<br>- Özellikle arama sonuçlarına erişimle geniş bilgi kaynağı sunar                | - Bazı coğrafyalarda erişim sınırlı<br>- Kalite açısından hâlâ geliştirme aşamasında                                             |
 | **Hugging Face**     | Tek bir araç olmaktan ziyade, çeşitli NLP modelleri ve araştırma projelerini barındıran topluluk platformu. | - Geniş model yelpazesi (Transformers vb.)<br>- Kolay fine tuning<br>- Etkin bir topluluk ve açık kaynak desteği | - Her model farklı kalitede olabilir<br>- Uygun modeli seçmek ve eğitmek zaman alıcı                                             |
-
-> **Emoji Gösterimi:**
->
-> - ChatGPT için: 🤖
-> - Midjourney için: 🎨
-> - DALL·E için: 🖼️
-> - Stable Diffusion için: 🌐
-> - Auto-GPT için: 🔁
-> - Bard için: 🌎
-> - Hugging Face için: 🫂
 
 ---
 
