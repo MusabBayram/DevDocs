@@ -1,6 +1,6 @@
 # DevDocs
 
-![DevDocs Logo](docs/images/logo.jpeg)
+![DevDocs Logo](images/logo.jpeg)
 
 
 > Bu depo, yapay zeka ve prompt mühendisliği odaklı notlarımı barındırıyor. İlerleyen zamanlarda farklı konulardaki dokümanlarla genişletmeyi planlıyorum.
