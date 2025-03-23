@@ -274,7 +274,3 @@ export function middleware(request) {
   }
 }
 ```
-
----
-
-✅ **Next.js Eğitim Dokümantasyonu**
