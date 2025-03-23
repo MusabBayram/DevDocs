@@ -2,18 +2,18 @@
 
 ## Table of Contents
 
-- [1. Important Theoretical Concepts](#1-important-theoretical-concepts)
-- [2. Next.js Installation](#2-nextjs-installation)
-- [3. Creating a Basic Component](#3-creating-a-basic-component)
-- [4. Routing Operations](#4-routing-operations)
-- [5. Creating Error Pages](#5-creating-error-pages)
-- [6. File Convention Structure](#6-file-convention-structure)
-- [7. Navigation Operations](#7-navigation-operations)
-- [8. Metadata Operations](#8-metadata-operations)
-- [9. Error Handling](#9-error-handling)
-- [10. Parallel Routes](#10-parallel-routes)
-- [11. Route Handlers (API Management)](#11-route-handlers-api-management)
-- [12. Important Structures](#12-important-structures)
+- [1. Important Theoretical Concepts](#-1-important-theoretical-concepts)
+- [2. Next.js Installation](#-2-nextjs-installation)
+- [3. Creating a Basic Component](#-3-creating-a-basic-component)
+- [4. Routing Operations](#-4-routing-operations)
+- [5. Creating Error Pages](#-5-creating-error-pages)
+- [6. File Convention Structure](#-6-file-convention-structure)
+- [7. Navigation Operations](#-7-navigation-operations)
+- [8. Metadata Operations](#-8-metadata-operations)
+- [9. Error Handling](#-9-error-handling)
+- [10. Parallel Routes](#-10-parallel-routes)
+- [11. Route Handlers (API Management)](#-11-route-handlers-api-management)
+- [12. Important Structures](#-12-important-structures)
 
 ---
 
