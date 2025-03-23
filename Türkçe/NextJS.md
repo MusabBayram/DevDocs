@@ -2,18 +2,18 @@
 
 ## İçindekiler
 
-- [1. Önemli Teorik Bilgiler](#1-Önemli-Teorik-Bilgiler)
-- [2. Next.js Kurulumu](#2-nextjs-kurulumu)
-- [3. Temel Bir Component Oluşturmak](#3-temel-bir-component-oluşturmak)
-- [4. Routing İşlemleri](#4-routing-işlemleri)
-- [5. Hata Sayfası Oluşturma](#5-hata-sayfası-oluşturma)
-- [6. Dosya Yapısı (File Convention)](#6-dosya-yapısı-file-convention)
-- [7. Navigation İşlemleri](#7-navigation-işlemleri)
-- [8. Metadata İşlemleri](#8-metadata-işlemleri)
-- [9. Error Handling (Hata Yönetimi)](#9-error-handling-hata-yönetimi)
-- [10. Paralel Rotalar](#10-paralel-rotalar)
-- [11. Route Handlers (API Rotaları Yönetimi)](#11-route-handlers-api-rotaları-yönetimi)
-- [12. Önemli Yapılar](#12-önemli-yapılar)
+- [1. Önemli Teorik Bilgiler](#-1-önemli-teorik-bilgiler)
+- [2. Next.js Kurulumu](#-2-nextjs-kurulumu)
+- [3. Temel Bir Component Oluşturmak](#-3-temel-bir-component-oluşturmak)
+- [4. Routing İşlemleri](#-4-routing-işlemleri)
+- [5. Hata Sayfası Oluşturma](#-5-hata-sayfası-oluşturma)
+- [6. Dosya Yapısı (File Convention)](#-6-dosya-yapısı-file-convention)
+- [7. Navigation İşlemleri](#-7-navigation-işlemleri)
+- [8. Metadata İşlemleri](#-8-metadata-işlemleri)
+- [9. Error Handling (Hata Yönetimi)](#-9-error-handling-hata-yönetimi)
+- [10. Paralel Rotalar](#-10-paralel-rotalar)
+- [11. Route Handlers (API Rotaları Yönetimi)](#-11-route-handlers-api-rotaları-yönetimi)
+- [12. Önemli Yapılar](#-12-önemli-yapılar)
 
 ---
 
